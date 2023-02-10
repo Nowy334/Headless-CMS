@@ -1,5 +1,6 @@
-This is headless content managment system for e-commerce. Project created as part of engineering work.
-The project allows you to create content, banners, banner categories, products, product categories and orders and review them.
+This is headless content managment system for e-commerce. </br>
+Project created as part of engineering work.</br>
+The project allows you to create content, banners, banner categories, products, product categories and orders and review them.</br></br>
 More details on priv :D
 
 
