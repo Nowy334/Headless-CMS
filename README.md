@@ -1,3 +1,8 @@
+This is headless content managment system for e-commerce. Project created as part of engineering work.
+The project allows you to create content, banners, banner categories, products, product categories and orders and review them.
+More details on priv :D
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
